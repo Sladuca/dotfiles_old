@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/sladuca/hackathon/malloc-protocol/src/components/FindCallModal'
+let g:netrw_dirhist_8='/home/sladuca/hackathon/malloc-protocol/src/models'
+let g:netrw_dirhist_7='/home/sladuca/hackathon/malloc-protocol/src/components/GraphEditorToolbar'
+let g:netrw_dirhist_6='/home/sladuca/hackathon/malloc-protocol/src/components/FindCallModal'
+let g:netrw_dirhist_5='/home/sladuca/hackathon/malloc-protocol/src/components'
+let g:netrw_dirhist_4='/home/sladuca/hackathon/malloc-protocol/src/components/Layout'
+let g:netrw_dirhist_3='/home/sladuca/hackathon/malloc-protocol/src/components/CurrentUserBadge'
+let g:netrw_dirhist_2='/home/sladuca/hackathon/malloc-protocol/src/components/ConnectButton'
+let g:netrw_dirhist_1='/home/sladuca/hackathon/malloc-protocol/src/components/AppBar'
+let g:netrw_dirhist_0='/home/sladuca/hackathon/malloc-protocol/src/views/call-graph'
